@@ -1,0 +1,123 @@
+Generic Programming :
+4 lectures per week;
+2 hours of lab session
+--------
+Mon, Wed, Fri : 6 pm - 8 pm.
+-------
+
+
+N S Kumar 
+kumaradhara@gmail.com
+nskumar@pes.edu
+9845066845
+fb: nagabhushana satya kumar
+----
+
+pre-requisites :
+a) programming
+b) data structures
+c) algorithms
+you do not have no C++
+
+in the course :
+you have to program in c++
+you have to understand code in Java or C#
+
+-----------
+
+assessment part :
+open notes
+ISA : 50%
+2 ISA : 3 units, 2 units
+	will also have a lab component
+ESA : 
+Written component : 30%
+project component : 20%
+
+-----------
+
+install :
+g++ 11.1
+javac 11.0
+
+---------
+googlegroup : GP_2022
+
+---------
+
+different paradigms:
+- procedural
+	divide into functions
+- object oriented :
+	type :
+		int double ...
+		what we can have(set of values)
+		what we can do(set of operations)
+		does not say how
+		12 + 34
+		
+		distinguish between what and how
+		find square root : sqrt
+		
+		interface and implementation
+		----------------------------
+		
+	class : 
+		attributes
+		behaviour
+		require a mechanism to make our own type
+		class is a user defined type
+		class : type + implementation
+		
+	object : an instance of a class
+-------------------------------------	
+	
+	abstraction
+	encapsulation
+		put together attributes and behaviour
+		hide and expose?
+		why access control :
+			security? NO 
+	composition
+	
+	polymorphism
+	inheritance :
+		why ?
+		
+		reuse? NO
+------------------------------------	
+- object based
+- generic
+- functional
+	pure : output of a function depends on input
+	
+	nothing changes - no loops, no assignment
+	first class citizen
+	- association of function to another name
+	- pass function as arg
+	- return function as result
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
